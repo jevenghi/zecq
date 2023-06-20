@@ -1,0 +1,12 @@
+flask
+flask-smorest
+python-dotenv
+sqlalchemy
+flask-sqlalchemy
+validators
+uuid
+datetime
+jsonify
+flask-jwt-extended
+passlib
+flask-migrate
