@@ -2,6 +2,7 @@ from flask import Flask, jsonify
 import os
 from flask_smorest import Api
 from db import db
+
 from scenarios import ScenarioBlueprint
 from user import UserBlueprint
 from flask_jwt_extended import JWTManager
